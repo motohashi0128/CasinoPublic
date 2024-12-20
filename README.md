@@ -10,7 +10,7 @@
 ## 使用技術
 Unity 2021.3.28f1  
 UniTask  
-UniRx // R3に変更予定
+UniRx // R3に変更予定  
 DoTween
 
 ## 公開先
